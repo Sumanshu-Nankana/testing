@@ -1,1 +1,1 @@
-FROM public.ecr.aws/docker/library/python:3.11-slim@sha256:d36d3fb6c859768ec62ac36ddc7397b5331d8dc05bc8823b3cac24f6ade97483
+FROM public.ecr.aws/docker/library/python:3.11-slim@sha256:3f3c35617e79276c5f6a2e6a13cdbabdd10257332df963c90c986858b26fad5e
