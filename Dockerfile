@@ -1,0 +1,1 @@
+FROM public.ecr.aws/ews-network/python:3.10@sha256:6a0567c6cf32f56ba18e981dd915e9ccc0f75ec3361b4cce7e7d6a27edbfb051
