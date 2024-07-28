@@ -1,1 +1,1 @@
-FROM public.ecr.aws/ews-network/python:3.9
+FROM public.ecr.aws/ews-network/python:3.10
