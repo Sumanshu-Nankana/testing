@@ -7,7 +7,7 @@ version: 2
 updates:
 # Major Version
   - package-ecosystem: "docker"
-    directory: "/python310"
+    directory: "/python39"
     schedule:
       interval: "daily"
 
