@@ -7,7 +7,7 @@ version: 2
 updates:
 # Major Version
   - package-ecosystem: "docker"
-    directory: "/"
+    directory: "/python310"
     schedule:
       interval: "daily"
     ignore:
@@ -16,7 +16,7 @@ updates:
 
   # SHA 
   - package-ecosystem: "docker"
-    directory: "/"
+    directory: "/python311"
     schedule:
       interval: "weekly"
       day: "sunday"
