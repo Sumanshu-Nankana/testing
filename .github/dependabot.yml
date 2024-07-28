@@ -10,9 +10,6 @@ updates:
     directory: "/python310"
     schedule:
       interval: "daily"
-    ignore:
-      - dependency-name: "*"
-        update-types: ["version-update:semver-minor", "version-update:semver-patch"]
 
   # SHA 
   - package-ecosystem: "docker"
